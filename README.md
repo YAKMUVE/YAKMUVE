@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ибрагимов Ринат Артурович
 
-<!--
-**YAKMUVE/YAKMUVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Intern. Студент направления "Информационные системы и технологии".
 
-Here are some ideas to get you started:
+Изучаю backend-разработку на Java: Java Core, Spring Boot, REST API, SQL, PostgreSQL, тестирование. До Java занимался Python на очных годовых курсах Яндекс Лицея. Участвовал в региональном этапе ВсОШ по информатике.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Java, Spring Boot, Spring Web, Spring Data JPA, SQL, PostgreSQL/MySQL, JUnit 5, Mockito, Maven/Gradle, Git, Docker basics, Linux CLI.
+
+## Projects
+
+- [LedgerAPI](https://github.com/YAKMUVE/LedgerAPI) | Java, Spring Boot, Spring Web, Spring Data JPA, PostgreSQL, JUnit 5, Docker Compose
+
+## Contacts
+
+- Telegram: @yakmuve
+- Email: yakmuverinat@ya.ru
