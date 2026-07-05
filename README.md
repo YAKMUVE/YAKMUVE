@@ -11,6 +11,7 @@ Java, Spring Boot, Spring Web, Spring Data JPA, SQL, PostgreSQL/MySQL, JUnit 5, 
 ## Projects
 
 - [LedgerAPI](https://github.com/YAKMUVE/LedgerAPI) | Java, Spring Boot, Spring Web, Spring Data JPA, PostgreSQL, JUnit 5, Docker Compose
+- [InhibitoryPyGame](https://github.com/YAKMUVE/InhibitoryPyGame) | Python, Pygame, MVC, JSON, CSV, Game State Management, Data Visualization
 
 ## Contacts
 
